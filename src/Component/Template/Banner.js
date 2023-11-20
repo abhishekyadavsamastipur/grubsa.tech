@@ -19,7 +19,7 @@ export default function Banner(){
                         Learn 
                         <Typed
                         className='pl-1 text-2xl'
-                        strings={[' web Development',' Digital Marketing',' Ethical Hacking']}
+                        strings={[' web Development',' Digital Marketing',' Ethical Hacking','Diploma in Computer Application']}
                         typeSpeed={100}
                         backSpeed={50}
                         loop={true}
